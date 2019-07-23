@@ -1,14 +1,14 @@
-###Front-End Aplikacji
+### Front-End Aplikacji
 
-####Chcemy stworzyć stronę mobile angażującą ludzi na terenie.
+#### Chcemy stworzyć stronę mobile angażującą ludzi na terenie.
 
-####Zamysł jest taki:
+#### Zamysł jest taki:
 - stawiamy znaczniki z QR kodami na terenie festiwalu
 - gość skanuje QR i przechodzi do formularza rejestracyjnego gdzie podaje swoje dane i tworzy konto
 - po utworzeniu konta każdy znacznik przerzuca do określonej strony z ciekawostkami
 - znaczników będzie 10
 
-####Co ważne:
+#### Co ważne:
 - dostęp do podstron musi być umożliwiony dopiero po podaniu danych kontaktowych
 - musimy wstawić licznik odwiedzonych przez gościa znaczników - stron
 - w każdym momencie możliwość podejścia do quizu z 3 pytań
